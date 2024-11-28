@@ -19,7 +19,7 @@ Proyek ini mencakup konsep ews
 
 ## Preview Website
 
-Website dapat diakses melalui link berikut: [Preview Website]()
+Website dapat diakses melalui link berikut: [Preview Website](https://tugasimk-konsep-ews.vercel.app/)
 
 ## License
 
